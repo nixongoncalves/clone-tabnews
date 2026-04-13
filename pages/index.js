@@ -1,6 +1,6 @@
 function Home() {
 
-    return <h1>Curso.dev</h1>
+    return <h1>\Teste de acesso ao Curso.dev</h1>
 }
 
 export default Home;
